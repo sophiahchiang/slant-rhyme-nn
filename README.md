@@ -1,4 +1,4 @@
-# Slant Rhyme Neural Networks
+# Rhyming Neural Networks
 
 How does a language model represent or understand rhyme? Is a neural network that was trained to identify normal rhymes also able to identify imperfect or slant rhymes? What might its ability or inability to do so imply about the phonetic representations and sound relationships in the model?
 
